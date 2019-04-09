@@ -1,7 +1,7 @@
-Party,Year,Value
-Liberal,2016,100
-Liberal,2017,150
-Liberal,2018,200
-CPC,2016,250
-CPC,2017,50
-CPC,2018,111
+name,year,value,lastValue,rank
+Liberal,2016,100,100,1
+Liberal,2017,150,100,1
+Liberal,2018,200,150,1
+CPC,2016,250,250,2
+CPC,2017,50,250,2
+CPC,2018,111,50,2
