@@ -1,11 +1,11 @@
 name,value,year,lastValue
 Environment,0.12,2016.5,0.12
-Environment,0.08,2016.6,0.12
-Environment,0.06,2016.7,0.08
-Environment,0.04,2016.8,0.06
-Environment,0.04,2016.9,0.04
-Environment,0.02,2017,0.04
-Environment,0.05,2016.998,0.02
+Environment,0.08,2016.58,0.12
+Environment,0.06,2016.66,0.08
+Environment,0.04,2016.74,0.06
+Environment,0.04,2016.82,0.04
+Environment,0.02,2016.90,0.04
+Environment,0.05,2016.98,0.02
 Environment,0.03,2017.081,0.05
 Environment,0.10,2017.164,0.03
 Environment,0.16,2017.247,0.10
