@@ -1,0 +1,171 @@
+name,value,year,lastValue
+"""Carbon Tax""",11,2016,0
+"""Carbon Tax""",17,2016.1,11
+"""Carbon Tax""",46,2016.2,17
+"""Carbon Tax""",55,2016.3,46
+"""Carbon Tax""",74,2016.4,55
+"""Carbon Tax""",80,2016.5,74
+"""Carbon Tax""",101,2016.6,80
+"""Carbon Tax""",134,2016.7,101
+"""Carbon Tax""",332,2016.8,134
+"""Carbon Tax""",422,2016.9,332
+"""Carbon Tax""",478,2017,422
+"""Carbon Tax""",487,2017.1,478
+"""Carbon Tax""",660,2017.2,487
+"""Carbon Tax""",703,2017.3,660
+"""Carbon Tax""",732,2017.4,703
+"""Carbon Tax""",769,2017.5,732
+"""Carbon Tax""",844,2017.6,769
+"""Carbon Tax""",858,2017.7,844
+"""Carbon Tax""",891,2017.8,858
+"""Carbon Tax""",905,2017.9,891
+"""Carbon Tax""",913,2018,905
+"""Carbon Tax""",917,2018.1,913
+"""Carbon Tax""",925,2018.2,917
+"""Carbon Tax""",945,2018.3,925
+"""Carbon Tax""",1078,2018.4,945
+"""Carbon Tax""",1266,2018.5,1078
+"""Carbon Tax""",1454,2018.6,1266
+"""Carbon Tax""",1479,2018.7,1454
+"""Carbon Tax""",1624,2018.8,1479
+"""Carbon Tax""",1704,2018.9,1624
+"""Carbon Tax""",1763,2019,1704
+"""Carbon Tax""",1821,2019.1,1763
+"""Carbon Tax""",1886,2019.2,1821
+"""Carbon Tax""",1900,2019.3,1886
+"""Carbon Pricing""",2,2016,0
+"""Carbon Pricing""",6,2016.1,2
+"""Carbon Pricing""",6,2016.2,6
+"""Carbon Pricing""",6,2016.3,6
+"""Carbon Pricing""",9,2016.4,6
+"""Carbon Pricing""",10,2016.5,9
+"""Carbon Pricing""",14,2016.6,10
+"""Carbon Pricing""",14,2016.7,14
+"""Carbon Pricing""",30,2016.8,14
+"""Carbon Pricing""",35,2016.9,30
+"""Carbon Pricing""",38,2017,35
+"""Carbon Pricing""",38,2017.1,38
+"""Carbon Pricing""",50,2017.2,38
+"""Carbon Pricing""",50,2017.3,50
+"""Carbon Pricing""",52,2017.4,50
+"""Carbon Pricing""",54,2017.5,52
+"""Carbon Pricing""",67,2017.6,54
+"""Carbon Pricing""",70,2017.7,67
+"""Carbon Pricing""",76,2017.8,70
+"""Carbon Pricing""",76,2017.9,76
+"""Carbon Pricing""",77,2018,76
+"""Carbon Pricing""",77,2018.1,77
+"""Carbon Pricing""",78,2018.2,77
+"""Carbon Pricing""",79,2018.3,78
+"""Carbon Pricing""",95,2018.4,79
+"""Carbon Pricing""",112,2018.5,95
+"""Carbon Pricing""",185,2018.6,112
+"""Carbon Pricing""",193,2018.7,185
+"""Carbon Pricing""",285,2018.8,193
+"""Carbon Pricing""",316,2018.9,285
+"""Carbon Pricing""",326,2019,316
+"""Carbon Pricing""",351,2019.1,326
+"""Carbon Pricing""",377,2019.2,351
+"""Carbon Pricing""",387,2019.3,377
+"""Price on Pollution""",0,2016,0
+"""Price on Pollution""",0,2016.1,0
+"""Price on Pollution""",0,2016.2,0
+"""Price on Pollution""",0,2016.3,0
+"""Price on Pollution""",0,2016.4,0
+"""Price on Pollution""",0,2016.5,0
+"""Price on Pollution""",0,2016.6,0
+"""Price on Pollution""",0,2016.7,0
+"""Price on Pollution""",0,2016.8,0
+"""Price on Pollution""",0,2016.9,0
+"""Price on Pollution""",0,2017,0
+"""Price on Pollution""",0,2017.1,0
+"""Price on Pollution""",1,2017.2,0
+"""Price on Pollution""",2,2017.3,1
+"""Price on Pollution""",2,2017.4,2
+"""Price on Pollution""",3,2017.5,2
+"""Price on Pollution""",3,2017.6,3
+"""Price on Pollution""",3,2017.7,3
+"""Price on Pollution""",3,2017.8,3
+"""Price on Pollution""",3,2017.9,3
+"""Price on Pollution""",3,2018,3
+"""Price on Pollution""",3,2018.1,3
+"""Price on Pollution""",4,2018.2,3
+"""Price on Pollution""",4,2018.3,4
+"""Price on Pollution""",5,2018.4,4
+"""Price on Pollution""",5,2018.5,5
+"""Price on Pollution""",5,2018.6,5
+"""Price on Pollution""",5,2018.7,5
+"""Price on Pollution""",5,2018.8,5
+"""Price on Pollution""",8,2018.9,5
+"""Price on Pollution""",10,2019,8
+"""Price on Pollution""",12,2019.1,10
+"""Price on Pollution""",12,2019.2,12
+"""Price on Pollution""",12,2019.3,12
+"""Cap and Trade""",0,2016,0
+"""Cap and Trade""",1,2016.1,0
+"""Cap and Trade""",1,2016.2,1
+"""Cap and Trade""",2,2016.3,1
+"""Cap and Trade""",2,2016.4,2
+"""Cap and Trade""",2,2016.5,2
+"""Cap and Trade""",2,2016.6,2
+"""Cap and Trade""",2,2016.7,2
+"""Cap and Trade""",13,2016.8,2
+"""Cap and Trade""",14,2016.9,13
+"""Cap and Trade""",15,2017,14
+"""Cap and Trade""",15,2017.1,15
+"""Cap and Trade""",27,2017.2,15
+"""Cap and Trade""",27,2017.3,27
+"""Cap and Trade""",27,2017.4,27
+"""Cap and Trade""",30,2017.5,27
+"""Cap and Trade""",33,2017.6,30
+"""Cap and Trade""",33,2017.7,33
+"""Cap and Trade""",34,2017.8,33
+"""Cap and Trade""",35,2017.9,34
+"""Cap and Trade""",35,2018,35
+"""Cap and Trade""",35,2018.1,35
+"""Cap and Trade""",35,2018.2,35
+"""Cap and Trade""",35,2018.3,35
+"""Cap and Trade""",39,2018.4,35
+"""Cap and Trade""",41,2018.5,39
+"""Cap and Trade""",42,2018.6,41
+"""Cap and Trade""",42,2018.7,42
+"""Cap and Trade""",44,2018.8,42
+"""Cap and Trade""",44,2018.9,44
+"""Cap and Trade""",46,2019,44
+"""Cap and Trade""",46,2019.1,46
+"""Cap and Trade""",47,2019.2,46
+"""Cap and Trade""",47,2019.3,47
+"""Price on Carbon Pollution""",0,2016,0
+"""Price on Carbon Pollution""",0,2016.1,0
+"""Price on Carbon Pollution""",0,2016.2,0
+"""Price on Carbon Pollution""",0,2016.3,0
+"""Price on Carbon Pollution""",0,2016.4,0
+"""Price on Carbon Pollution""",0,2016.5,0
+"""Price on Carbon Pollution""",0,2016.6,0
+"""Price on Carbon Pollution""",0,2016.7,0
+"""Price on Carbon Pollution""",0,2016.8,0
+"""Price on Carbon Pollution""",0,2016.9,0
+"""Price on Carbon Pollution""",0,2017,0
+"""Price on Carbon Pollution""",0,2017.1,0
+"""Price on Carbon Pollution""",1,2017.2,0
+"""Price on Carbon Pollution""",1,2017.3,1
+"""Price on Carbon Pollution""",1,2017.4,1
+"""Price on Carbon Pollution""",2,2017.5,1
+"""Price on Carbon Pollution""",2,2017.6,2
+"""Price on Carbon Pollution""",2,2017.7,2
+"""Price on Carbon Pollution""",4,2017.8,2
+"""Price on Carbon Pollution""",5,2017.9,4
+"""Price on Carbon Pollution""",5,2018,5
+"""Price on Carbon Pollution""",5,2018.1,5
+"""Price on Carbon Pollution""",5,2018.2,5
+"""Price on Carbon Pollution""",5,2018.3,5
+"""Price on Carbon Pollution""",5,2018.4,5
+"""Price on Carbon Pollution""",5,2018.5,5
+"""Price on Carbon Pollution""",5,2018.6,5
+"""Price on Carbon Pollution""",5,2018.7,5
+"""Price on Carbon Pollution""",5,2018.8,5
+"""Price on Carbon Pollution""",5,2018.9,5
+"""Price on Carbon Pollution""",5,2019,5
+"""Price on Carbon Pollution""",5,2019.1,5
+"""Price on Carbon Pollution""",5,2019.2,5
+"""Price on Carbon Pollution""",5,2019.3,5
