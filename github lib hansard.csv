@@ -1,0 +1,341 @@
+name,value,year,lastValue
+"""Immigration""",64,2016,0
+"""Immigration""",96,2016.1,64
+"""Immigration""",129,2016.2,96
+"""Immigration""",214,2016.3,129
+"""Immigration""",247,2016.4,214
+"""Immigration""",290,2016.5,247
+"""Immigration""",351,2016.6,290
+"""Immigration""",381,2016.7,351
+"""Immigration""",473,2016.8,381
+"""Immigration""",539,2016.9,473
+"""Immigration""",577,2017,539
+"""Immigration""",602,2017.1,577
+"""Immigration""",685,2017.2,602
+"""Immigration""",728,2017.3,685
+"""Immigration""",743,2017.4,728
+"""Immigration""",804,2017.5,743
+"""Immigration""",880,2017.6,804
+"""Immigration""",904,2017.7,880
+"""Immigration""",945,2017.8,904
+"""Immigration""",993,2017.9,945
+"""Immigration""",1015,2018,993
+"""Immigration""",1019,2018.1,1015
+"""Immigration""",1049,2018.2,1019
+"""Immigration""",1078,2018.3,1049
+"""Immigration""",1191,2018.4,1078
+"""Immigration""",1356,2018.5,1191
+"""Immigration""",1416,2018.6,1356
+"""Immigration""",1436,2018.7,1416
+"""Immigration""",1477,2018.8,1436
+"""Immigration""",1515,2018.9,1477
+"""Immigration""",1544,2019,1515
+"""Immigration""",1565,2019.1,1544
+"""Immigration""",1592,2019.2,1565
+"""Immigration""",1604,2019.3,1592
+"""Small Business""",13,2016,0
+"""Small Business""",27,2016.1,13
+"""Small Business""",37,2016.2,27
+"""Small Business""",51,2016.3,37
+"""Small Business""",94,2016.4,51
+"""Small Business""",138,2016.5,94
+"""Small Business""",171,2016.6,138
+"""Small Business""",184,2016.7,171
+"""Small Business""",250,2016.8,184
+"""Small Business""",289,2016.9,250
+"""Small Business""",307,2017,289
+"""Small Business""",311,2017.1,307
+"""Small Business""",342,2017.2,311
+"""Small Business""",367,2017.3,342
+"""Small Business""",375,2017.4,367
+"""Small Business""",397,2017.5,375
+"""Small Business""",414,2017.6,397
+"""Small Business""",468,2017.7,414
+"""Small Business""",588,2017.8,468
+"""Small Business""",654,2017.9,588
+"""Small Business""",731,2018,654
+"""Small Business""",735,2018.1,731
+"""Small Business""",751,2018.2,735
+"""Small Business""",760,2018.3,751
+"""Small Business""",801,2018.4,760
+"""Small Business""",822,2018.5,801
+"""Small Business""",838,2018.6,822
+"""Small Business""",846,2018.7,838
+"""Small Business""",879,2018.8,846
+"""Small Business""",935,2018.9,879
+"""Small Business""",940,2019,935
+"""Small Business""",957,2019.1,940
+"""Small Business""",973,2019.2,957
+"""Small Business""",975,2019.3,973
+"""Pipeline""",4,2016,0
+"""Pipeline""",42,2016.1,4
+"""Pipeline""",51,2016.2,42
+"""Pipeline""",59,2016.3,51
+"""Pipeline""",70,2016.4,59
+"""Pipeline""",78,2016.5,70
+"""Pipeline""",86,2016.6,78
+"""Pipeline""",93,2016.7,86
+"""Pipeline""",102,2016.8,93
+"""Pipeline""",117,2016.9,102
+"""Pipeline""",132,2017,117
+"""Pipeline""",133,2017.1,132
+"""Pipeline""",164,2017.2,133
+"""Pipeline""",167,2017.3,164
+"""Pipeline""",177,2017.4,167
+"""Pipeline""",228,2017.5,177
+"""Pipeline""",245,2017.6,228
+"""Pipeline""",253,2017.7,245
+"""Pipeline""",283,2017.8,253
+"""Pipeline""",288,2017.9,283
+"""Pipeline""",289,2018,288
+"""Pipeline""",293,2018.1,289
+"""Pipeline""",347,2018.2,293
+"""Pipeline""",355,2018.3,347
+"""Pipeline""",450,2018.4,355
+"""Pipeline""",527,2018.5,450
+"""Pipeline""",603,2018.6,527
+"""Pipeline""",618,2018.7,603
+"""Pipeline""",623,2018.8,618
+"""Pipeline""",640,2018.9,623
+"""Pipeline""",651,2019,640
+"""Pipeline""",661,2019.1,651
+"""Pipeline""",667,2019.2,661
+"""Pipeline""",668,2019.3,667
+"""Canada Child Benefit""",39,2016,0
+"""Canada Child Benefit""",104,2016.1,39
+"""Canada Child Benefit""",130,2016.2,104
+"""Canada Child Benefit""",155,2016.3,130
+"""Canada Child Benefit""",225,2016.4,155
+"""Canada Child Benefit""",303,2016.5,225
+"""Canada Child Benefit""",351,2016.6,303
+"""Canada Child Benefit""",367,2016.7,351
+"""Canada Child Benefit""",446,2016.8,367
+"""Canada Child Benefit""",505,2016.9,446
+"""Canada Child Benefit""",581,2017,505
+"""Canada Child Benefit""",586,2017.1,581
+"""Canada Child Benefit""",650,2017.2,586
+"""Canada Child Benefit""",711,2017.3,650
+"""Canada Child Benefit""",738,2017.4,711
+"""Canada Child Benefit""",793,2017.5,738
+"""Canada Child Benefit""",826,2017.6,793
+"""Canada Child Benefit""",848,2017.7,826
+"""Canada Child Benefit""",917,2017.8,848
+"""Canada Child Benefit""",1048,2017.9,917
+"""Canada Child Benefit""",1064,2018,1048
+"""Canada Child Benefit""",1070,2018.1,1064
+"""Canada Child Benefit""",1099,2018.2,1070
+"""Canada Child Benefit""",1125,2018.3,1099
+"""Canada Child Benefit""",1175,2018.4,1125
+"""Canada Child Benefit""",1209,2018.5,1175
+"""Canada Child Benefit""",1252,2018.6,1209
+"""Canada Child Benefit""",1261,2018.7,1252
+"""Canada Child Benefit""",1291,2018.8,1261
+"""Canada Child Benefit""",1361,2018.9,1291
+"""Canada Child Benefit""",1372,2019,1361
+"""Canada Child Benefit""",1405,2019.1,1372
+"""Canada Child Benefit""",1467,2019.2,1405
+"""Canada Child Benefit""",1474,2019.3,1467
+"""Climate Change""",29,2016,0
+"""Climate Change""",61,2016.1,29
+"""Climate Change""",88,2016.2,61
+"""Climate Change""",108,2016.3,88
+"""Climate Change""",144,2016.4,108
+"""Climate Change""",200,2016.5,144
+"""Climate Change""",227,2016.6,200
+"""Climate Change""",253,2016.7,227
+"""Climate Change""",355,2016.8,253
+"""Climate Change""",402,2016.9,355
+"""Climate Change""",414,2017,402
+"""Climate Change""",417,2017.1,414
+"""Climate Change""",475,2017.2,417
+"""Climate Change""",500,2017.3,475
+"""Climate Change""",515,2017.4,500
+"""Climate Change""",566,2017.5,515
+"""Climate Change""",639,2017.6,566
+"""Climate Change""",651,2017.7,639
+"""Climate Change""",691,2017.8,651
+"""Climate Change""",720,2017.9,691
+"""Climate Change""",726,2018,720
+"""Climate Change""",728,2018.1,726
+"""Climate Change""",754,2018.2,728
+"""Climate Change""",775,2018.3,754
+"""Climate Change""",853,2018.4,775
+"""Climate Change""",974,2018.5,853
+"""Climate Change""",1101,2018.6,974
+"""Climate Change""",1111,2018.7,1101
+"""Climate Change""",1211,2018.8,1111
+"""Climate Change""",1265,2018.9,1211
+"""Climate Change""",1286,2019,1265
+"""Climate Change""",1311,2019.1,1286
+"""Climate Change""",1333,2019.2,1311
+"""Climate Change""",1344,2019.3,1333
+"""Middle Class""",73,2016,0
+"""Middle Class""",187,2016.1,73
+"""Middle Class""",268,2016.2,187
+"""Middle Class""",343,2016.3,268
+"""Middle Class""",448,2016.4,343
+"""Middle Class""",576,2016.5,448
+"""Middle Class""",662,2016.6,576
+"""Middle Class""",741,2016.7,662
+"""Middle Class""",895,2016.8,741
+"""Middle Class""",1083,2016.9,895
+"""Middle Class""",1219,2017,1083
+"""Middle Class""",1242,2017.1,1219
+"""Middle Class""",1470,2017.2,1242
+"""Middle Class""",1630,2017.3,1470
+"""Middle Class""",1706,2017.4,1630
+"""Middle Class""",1859,2017.5,1706
+"""Middle Class""",1972,2017.6,1859
+"""Middle Class""",2138,2017.7,1972
+"""Middle Class""",2335,2017.8,2138
+"""Middle Class""",2490,2017.9,2335
+"""Middle Class""",2530,2018,2490
+"""Middle Class""",2556,2018.1,2530
+"""Middle Class""",2625,2018.2,2556
+"""Middle Class""",2681,2018.3,2625
+"""Middle Class""",2754,2018.4,2681
+"""Middle Class""",2835,2018.5,2754
+"""Middle Class""",2911,2018.6,2835
+"""Middle Class""",2961,2018.7,2911
+"""Middle Class""",3038,2018.8,2961
+"""Middle Class""",3149,2018.9,3038
+"""Middle Class""",3187,2019,3149
+"""Middle Class""",3231,2019.1,3187
+"""Middle Class""",3307,2019.2,3231
+"""Middle Class""",3336,2019.3,3307
+"""Pension""",12,2016,0
+"""Pension""",26,2016.1,12
+"""Pension""",42,2016.2,26
+"""Pension""",49,2016.3,42
+"""Pension""",61,2016.4,49
+"""Pension""",84,2016.5,61
+"""Pension""",107,2016.6,84
+"""Pension""",121,2016.7,107
+"""Pension""",275,2016.8,121
+"""Pension""",587,2016.9,275
+"""Pension""",606,2017,587
+"""Pension""",608,2017.1,606
+"""Pension""",625,2017.2,608
+"""Pension""",642,2017.3,625
+"""Pension""",647,2017.4,642
+"""Pension""",694,2017.5,647
+"""Pension""",713,2017.6,694
+"""Pension""",720,2017.7,713
+"""Pension""",767,2017.8,720
+"""Pension""",809,2017.9,767
+"""Pension""",818,2018,809
+"""Pension""",828,2018.1,818
+"""Pension""",884,2018.2,828
+"""Pension""",890,2018.3,884
+"""Pension""",905,2018.4,890
+"""Pension""",924,2018.5,905
+"""Pension""",932,2018.6,924
+"""Pension""",951,2018.7,932
+"""Pension""",975,2018.8,951
+"""Pension""",1014,2018.9,975
+"""Pension""",1020,2019,1014
+"""Pension""",1022,2019.1,1020
+"""Pension""",1043,2019.2,1022
+"""Pension""",1050,2019.3,1043
+"""Seniors""",27,2016,0
+"""Seniors""",70,2016.1,27
+"""Seniors""",92,2016.2,70
+"""Seniors""",114,2016.3,92
+"""Seniors""",175,2016.4,114
+"""Seniors""",262,2016.5,175
+"""Seniors""",306,2016.6,262
+"""Seniors""",331,2016.7,306
+"""Seniors""",453,2016.8,331
+"""Seniors""",602,2016.9,453
+"""Seniors""",650,2017,602
+"""Seniors""",655,2017.1,650
+"""Seniors""",721,2017.2,655
+"""Seniors""",780,2017.3,721
+"""Seniors""",817,2017.4,780
+"""Seniors""",888,2017.5,817
+"""Seniors""",932,2017.6,888
+"""Seniors""",950,2017.7,932
+"""Seniors""",1000,2017.8,950
+"""Seniors""",1050,2017.9,1000
+"""Seniors""",1079,2018,1050
+"""Seniors""",1088,2018.1,1079
+"""Seniors""",1125,2018.2,1088
+"""Seniors""",1157,2018.3,1125
+"""Seniors""",1192,2018.4,1157
+"""Seniors""",1222,2018.5,1192
+"""Seniors""",1255,2018.6,1222
+"""Seniors""",1282,2018.7,1255
+"""Seniors""",1317,2018.8,1282
+"""Seniors""",1378,2018.9,1317
+"""Seniors""",1388,2019,1378
+"""Seniors""",1416,2019.1,1388
+"""Seniors""",1470,2019.2,1416
+"""Seniors""",1484,2019.3,1470
+"""Equality""",18,2016,0
+"""Equality""",37,2016.1,18
+"""Equality""",96,2016.2,37
+"""Equality""",148,2016.3,96
+"""Equality""",182,2016.4,148
+"""Equality""",233,2016.5,182
+"""Equality""",269,2016.6,233
+"""Equality""",296,2016.7,269
+"""Equality""",376,2016.8,296
+"""Equality""",429,2016.9,376
+"""Equality""",448,2017,429
+"""Equality""",469,2017.1,448
+"""Equality""",521,2017.2,469
+"""Equality""",562,2017.3,521
+"""Equality""",595,2017.4,562
+"""Equality""",669,2017.5,595
+"""Equality""",753,2017.6,669
+"""Equality""",782,2017.7,753
+"""Equality""",830,2017.8,782
+"""Equality""",877,2017.9,830
+"""Equality""",950,2018,877
+"""Equality""",959,2018.1,950
+"""Equality""",988,2018.2,959
+"""Equality""",1046,2018.3,988
+"""Equality""",1118,2018.4,1046
+"""Equality""",1170,2018.5,1118
+"""Equality""",1213,2018.6,1170
+"""Equality""",1243,2018.7,1213
+"""Equality""",1300,2018.8,1243
+"""Equality""",1366,2018.9,1300
+"""Equality""",1389,2019,1366
+"""Equality""",1398,2019.1,1389
+"""Equality""",1425,2019.2,1398
+"""Equality""",1438,2019.3,1425
+"""Diversity""",28,2016,0
+"""Diversity""",54,2016.1,28
+"""Diversity""",85,2016.2,54
+"""Diversity""",128,2016.3,85
+"""Diversity""",150,2016.4,128
+"""Diversity""",221,2016.5,150
+"""Diversity""",259,2016.6,221
+"""Diversity""",312,2016.7,259
+"""Diversity""",382,2016.8,312
+"""Diversity""",438,2016.9,382
+"""Diversity""",456,2017,438
+"""Diversity""",477,2017.1,456
+"""Diversity""",556,2017.2,477
+"""Diversity""",586,2017.3,556
+"""Diversity""",624,2017.4,586
+"""Diversity""",705,2017.5,624
+"""Diversity""",809,2017.6,705
+"""Diversity""",840,2017.7,809
+"""Diversity""",886,2017.8,840
+"""Diversity""",931,2017.9,886
+"""Diversity""",963,2018,931
+"""Diversity""",975,2018.1,963
+"""Diversity""",1003,2018.2,975
+"""Diversity""",1027,2018.3,1003
+"""Diversity""",1065,2018.4,1027
+"""Diversity""",1115,2018.5,1065
+"""Diversity""",1155,2018.6,1115
+"""Diversity""",1176,2018.7,1155
+"""Diversity""",1214,2018.8,1176
+"""Diversity""",1241,2018.9,1214
+"""Diversity""",1247,2019,1241
+"""Diversity""",1260,2019.1,1247
+"""Diversity""",1286,2019.2,1260
+"""Diversity""",1296,2019.3,1286
