@@ -1,0 +1,171 @@
+name,value,year,lastValue
+"""Tax sur le carbone""",0,2016,0
+"""Tax sur le carbone""",0,2016.1,0
+"""Tax sur le carbone""",1,2016.2,0
+"""Tax sur le carbone""",1,2016.3,1
+"""Tax sur le carbone""",1,2016.4,1
+"""Tax sur le carbone""",3,2016.5,1
+"""Tax sur le carbone""",3,2016.6,3
+"""Tax sur le carbone""",7,2016.7,3
+"""Tax sur le carbone""",18,2016.8,7
+"""Tax sur le carbone""",20,2016.9,18
+"""Tax sur le carbone""",26,2017,20
+"""Tax sur le carbone""",26,2017.1,26
+"""Tax sur le carbone""",34,2017.2,26
+"""Tax sur le carbone""",34,2017.3,34
+"""Tax sur le carbone""",34,2017.4,34
+"""Tax sur le carbone""",35,2017.5,34
+"""Tax sur le carbone""",39,2017.6,35
+"""Tax sur le carbone""",39,2017.7,39
+"""Tax sur le carbone""",42,2017.8,39
+"""Tax sur le carbone""",46,2017.9,42
+"""Tax sur le carbone""",46,2018,46
+"""Tax sur le carbone""",47,2018.1,46
+"""Tax sur le carbone""",47,2018.2,47
+"""Tax sur le carbone""",47,2018.3,47
+"""Tax sur le carbone""",52,2018.4,47
+"""Tax sur le carbone""",73,2018.5,52
+"""Tax sur le carbone""",81,2018.6,73
+"""Tax sur le carbone""",81,2018.7,81
+"""Tax sur le carbone""",87,2018.8,81
+"""Tax sur le carbone""",90,2018.9,87
+"""Tax sur le carbone""",91,2019,90
+"""Tax sur le carbone""",91,2019.1,91
+"""Tax sur le carbone""",91,2019.2,91
+"""Tax sur le carbone""",92,2019.3,91
+"""Tarification du carbone""",1,2016,0
+"""Tarification du carbone""",2,2016.1,1
+"""Tarification du carbone""",6,2016.2,2
+"""Tarification du carbone""",11,2016.3,6
+"""Tarification du carbone""",14,2016.4,11
+"""Tarification du carbone""",20,2016.5,14
+"""Tarification du carbone""",27,2016.6,20
+"""Tarification du carbone""",34,2016.7,27
+"""Tarification du carbone""",80,2016.8,34
+"""Tarification du carbone""",88,2016.9,80
+"""Tarification du carbone""",93,2017,88
+"""Tarification du carbone""",93,2017.1,93
+"""Tarification du carbone""",119,2017.2,93
+"""Tarification du carbone""",124,2017.3,119
+"""Tarification du carbone""",127,2017.4,124
+"""Tarification du carbone""",131,2017.5,127
+"""Tarification du carbone""",144,2017.6,131
+"""Tarification du carbone""",145,2017.7,144
+"""Tarification du carbone""",159,2017.8,145
+"""Tarification du carbone""",161,2017.9,159
+"""Tarification du carbone""",162,2018,161
+"""Tarification du carbone""",162,2018.1,162
+"""Tarification du carbone""",164,2018.2,162
+"""Tarification du carbone""",169,2018.3,164
+"""Tarification du carbone""",194,2018.4,169
+"""Tarification du carbone""",246,2018.5,194
+"""Tarification du carbone""",354,2018.6,246
+"""Tarification du carbone""",357,2018.7,354
+"""Tarification du carbone""",443,2018.8,357
+"""Tarification du carbone""",472,2018.9,443
+"""Tarification du carbone""",479,2019,472
+"""Tarification du carbone""",503,2019.1,479
+"""Tarification du carbone""",515,2019.2,503
+"""Tarification du carbone""",516,2019.3,515
+"""Tarification de la pollution""",0,2016,0
+"""Tarification de la pollution""",0,2016.1,0
+"""Tarification de la pollution""",0,2016.2,0
+"""Tarification de la pollution""",0,2016.3,0
+"""Tarification de la pollution""",0,2016.4,0
+"""Tarification de la pollution""",0,2016.5,0
+"""Tarification de la pollution""",0,2016.6,0
+"""Tarification de la pollution""",1,2016.7,0
+"""Tarification de la pollution""",29,2016.8,1
+"""Tarification de la pollution""",35,2016.9,29
+"""Tarification de la pollution""",36,2017,35
+"""Tarification de la pollution""",37,2017.1,36
+"""Tarification de la pollution""",62,2017.2,37
+"""Tarification de la pollution""",70,2017.3,62
+"""Tarification de la pollution""",75,2017.4,70
+"""Tarification de la pollution""",87,2017.5,75
+"""Tarification de la pollution""",100,2017.6,87
+"""Tarification de la pollution""",102,2017.7,100
+"""Tarification de la pollution""",105,2017.8,102
+"""Tarification de la pollution""",107,2017.9,105
+"""Tarification de la pollution""",107,2018,107
+"""Tarification de la pollution""",107,2018.1,107
+"""Tarification de la pollution""",108,2018.2,107
+"""Tarification de la pollution""",111,2018.3,108
+"""Tarification de la pollution""",143,2018.4,111
+"""Tarification de la pollution""",202,2018.5,143
+"""Tarification de la pollution""",251,2018.6,202
+"""Tarification de la pollution""",254,2018.7,251
+"""Tarification de la pollution""",318,2018.8,254
+"""Tarification de la pollution""",349,2018.9,318
+"""Tarification de la pollution""",363,2019,349
+"""Tarification de la pollution""",378,2019.1,363
+"""Tarification de la pollution""",390,2019.2,378
+"""Tarification de la pollution""",396,2019.3,390
+"""Système de plafonnement et d'échange""",0,2016,0
+"""Système de plafonnement et d'échange""",0,2016.1,0
+"""Système de plafonnement et d'échange""",0,2016.2,0
+"""Système de plafonnement et d'échange""",0,2016.3,0
+"""Système de plafonnement et d'échange""",0,2016.4,0
+"""Système de plafonnement et d'échange""",0,2016.5,0
+"""Système de plafonnement et d'échange""",0,2016.6,0
+"""Système de plafonnement et d'échange""",1,2016.7,0
+"""Système de plafonnement et d'échange""",18,2016.8,1
+"""Système de plafonnement et d'échange""",20,2016.9,18
+"""Système de plafonnement et d'échange""",23,2017,20
+"""Système de plafonnement et d'échange""",23,2017.1,23
+"""Système de plafonnement et d'échange""",28,2017.2,23
+"""Système de plafonnement et d'échange""",28,2017.3,28
+"""Système de plafonnement et d'échange""",28,2017.4,28
+"""Système de plafonnement et d'échange""",29,2017.5,28
+"""Système de plafonnement et d'échange""",33,2017.6,29
+"""Système de plafonnement et d'échange""",33,2017.7,33
+"""Système de plafonnement et d'échange""",35,2017.8,33
+"""Système de plafonnement et d'échange""",36,2017.9,35
+"""Système de plafonnement et d'échange""",36,2018,36
+"""Système de plafonnement et d'échange""",36,2018.1,36
+"""Système de plafonnement et d'échange""",36,2018.2,36
+"""Système de plafonnement et d'échange""",37,2018.3,36
+"""Système de plafonnement et d'échange""",42,2018.4,37
+"""Système de plafonnement et d'échange""",48,2018.5,42
+"""Système de plafonnement et d'échange""",59,2018.6,48
+"""Système de plafonnement et d'échange""",59,2018.7,59
+"""Système de plafonnement et d'échange""",61,2018.8,59
+"""Système de plafonnement et d'échange""",62,2018.9,61
+"""Système de plafonnement et d'échange""",62,2019,62
+"""Système de plafonnement et d'échange""",62,2019.1,62
+"""Système de plafonnement et d'échange""",62,2019.2,62
+"""Système de plafonnement et d'échange""",62,2019.3,62
+"""Tarification de la pollution par le carbone""",0,2016,0
+"""Tarification de la pollution par le carbone""",0,2016.1,0
+"""Tarification de la pollution par le carbone""",0,2016.2,0
+"""Tarification de la pollution par le carbone""",0,2016.3,0
+"""Tarification de la pollution par le carbone""",0,2016.4,0
+"""Tarification de la pollution par le carbone""",0,2016.5,0
+"""Tarification de la pollution par le carbone""",0,2016.6,0
+"""Tarification de la pollution par le carbone""",0,2016.7,0
+"""Tarification de la pollution par le carbone""",26,2016.8,0
+"""Tarification de la pollution par le carbone""",30,2016.9,26
+"""Tarification de la pollution par le carbone""",36,2017,30
+"""Tarification de la pollution par le carbone""",36,2017.1,36
+"""Tarification de la pollution par le carbone""",47,2017.2,36
+"""Tarification de la pollution par le carbone""",51,2017.3,47
+"""Tarification de la pollution par le carbone""",55,2017.4,51
+"""Tarification de la pollution par le carbone""",63,2017.5,55
+"""Tarification de la pollution par le carbone""",71,2017.6,63
+"""Tarification de la pollution par le carbone""",71,2017.7,71
+"""Tarification de la pollution par le carbone""",74,2017.8,71
+"""Tarification de la pollution par le carbone""",76,2017.9,74
+"""Tarification de la pollution par le carbone""",76,2018,76
+"""Tarification de la pollution par le carbone""",76,2018.1,76
+"""Tarification de la pollution par le carbone""",78,2018.2,76
+"""Tarification de la pollution par le carbone""",83,2018.3,78
+"""Tarification de la pollution par le carbone""",108,2018.4,83
+"""Tarification de la pollution par le carbone""",140,2018.5,108
+"""Tarification de la pollution par le carbone""",169,2018.6,140
+"""Tarification de la pollution par le carbone""",169,2018.7,169
+"""Tarification de la pollution par le carbone""",170,2018.8,169
+"""Tarification de la pollution par le carbone""",172,2018.9,170
+"""Tarification de la pollution par le carbone""",172,2019,172
+"""Tarification de la pollution par le carbone""",172,2019.1,172
+"""Tarification de la pollution par le carbone""",172,2019.2,172
+"""Tarification de la pollution par le carbone""",172,2019.3,172
